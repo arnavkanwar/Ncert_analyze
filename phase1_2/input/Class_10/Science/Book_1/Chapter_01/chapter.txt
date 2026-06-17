@@ -1,0 +1,111 @@
+CHEMICAL REACTIONS AND EQUATIONS
+
+Page 1
+
+Chemistry plays a vital role in our daily life. Chemical reactions occur all around us - from cooking food to rusting of iron. Understanding these reactions helps us control and utilize them better.
+
+WHAT ARE CHEMICAL REACTIONS?
+
+A chemical reaction is a process in which one or more substances are converted into different substances with different properties. The substances that undergo change are called reactants, and the new substances formed are called products.
+
+Page 2
+
+For example, when we burn paper, the paper (reactant) combines with oxygen from air to produce ash, smoke, and gases (products). The paper cannot be recovered from these products, showing that a chemical change has occurred.
+
+Chemical reactions are represented by chemical equations. A chemical equation shows the reactants on the left side and products on the right side, separated by an arrow.
+
+CHARACTERISTICS OF CHEMICAL REACTIONS
+
+Chemical reactions are accompanied by observable changes that help us identify them. Let us look at these characteristics:
+
+1.1 Change in State
+
+Some reactions involve a change in the state of matter. When we burn a candle, solid wax changes to liquid and then to gaseous products like carbon dioxide and water vapor.
+
+1.2 Change in Color
+
+Many chemical reactions produce a visible change in color. When iron rusts, it changes from shiny gray metallic color to reddish-brown. This color change indicates that a chemical reaction has occurred.
+
+Page 3
+
+1.3 Evolution of Gas
+
+Some reactions produce gases as products. When you add baking soda to vinegar, carbon dioxide gas is released rapidly, causing bubbles and fizzing. This is a clear sign of a chemical reaction.
+
+1.4 Change in Temperature
+
+Chemical reactions may release or absorb heat energy. Burning of fuels releases heat and light, making it an exothermic reaction. On the other hand, decomposition of calcium carbonate requires heat, making it an endothermic reaction.
+
+TYPES OF CHEMICAL REACTIONS
+
+Chemical reactions can be classified into different types based on how reactants change into products. Understanding these types helps us predict reaction behavior.
+
+2.1 Combination Reactions
+
+In a combination reaction, two or more substances combine to form a single new substance. The general form is A + B → AB.
+
+Page 4
+
+For example, when calcium oxide reacts with water, it forms calcium hydroxide and releases heat. This reaction is used in construction where quick lime is mixed with water.
+
+2.2 Decomposition Reactions
+
+In decomposition reactions, a single compound breaks down into two or more simpler substances. These reactions usually require energy in the form of heat, light, or electricity.
+
+When calcium carbonate is heated strongly, it decomposes into calcium oxide and carbon dioxide gas. This is called thermal decomposition.
+
+2.3 Displacement Reactions
+
+In a displacement reaction, a more reactive element displaces a less reactive element from its compound. When zinc metal is added to copper sulfate solution, zinc displaces copper from the solution.
+
+The blue color of copper sulfate solution fades, and reddish-brown copper metal is deposited. This shows that zinc is more reactive than copper.
+
+Page 5
+
+2.4 Double Displacement Reactions
+
+In double displacement reactions, two compounds exchange ions to form two new compounds. These reactions often occur in aqueous solutions.
+
+When sodium sulfate reacts with barium chloride in solution, they exchange ions to form barium sulfate and sodium chloride. Barium sulfate is insoluble and precipitates out as a white solid.
+
+OXIDATION AND REDUCTION
+
+Oxidation and reduction reactions are important types of chemical reactions that always occur together. They are called redox reactions.
+
+3.1 What is Oxidation?
+
+Oxidation is the process of addition of oxygen to a substance or removal of hydrogen from it. When copper metal is heated in air, it combines with oxygen to form black copper oxide. The copper has been oxidized.
+
+3.2 What is Reduction?
+
+Reduction is the opposite process - removal of oxygen or addition of hydrogen. When copper oxide is heated with hydrogen gas, the oxygen is removed and copper metal is obtained. The copper oxide has been reduced.
+
+Page 6
+
+In every redox reaction, one substance is oxidized while another is reduced. They occur simultaneously and cannot happen independently.
+
+EVERYDAY EXAMPLES OF CHEMICAL REACTIONS
+
+Chemical reactions are not just laboratory phenomena. They are happening around us all the time and have practical applications.
+
+4.1 Corrosion
+
+Corrosion is the gradual deterioration of metals due to chemical reactions with their environment. Rusting of iron is the most common example. Iron reacts with oxygen and moisture to form hydrated iron oxide, which we call rust.
+
+Corrosion causes enormous damage to buildings, bridges, ships, and vehicles. Prevention methods include painting, oiling, galvanization, and using alloys.
+
+4.2 Rancidity
+
+Rancidity occurs when fats and oils are oxidized upon exposure to air. The oxidation produces unpleasant odors and flavors in food. This is why food manufacturers package oils in airtight containers and add antioxidants.
+
+Page 7
+
+Refrigeration slows down the oxidation process, which is why we store oily foods in refrigerators. Some manufacturers also package food in nitrogen gas to prevent oxidation.
+
+SUMMARY
+
+Understanding chemical reactions is fundamental to chemistry. We learned that chemical reactions involve the transformation of reactants into products with different properties. These reactions show observable changes like color change, temperature change, gas evolution, or state change.
+
+Chemical reactions are classified into combination, decomposition, displacement, and double displacement reactions. Oxidation and reduction are special types that always occur together.
+
+Chemical reactions have numerous applications in daily life, from cooking and cleaning to industrial processes. However, they can also cause unwanted effects like corrosion and rancidity, which we need to prevent or control.

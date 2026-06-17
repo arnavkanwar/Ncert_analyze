@@ -1,0 +1,29 @@
+154 Chemistry UNIT 1.4 16.23 M 1.5 0.617 m, 0.01 and 0.99, 0.67 1.6 157.8 mL 1.7 33.5% 1.8 17.95 m and 9.10 M 1.9 1.5×10–3 %, 1.25×10-4 m 1.15 40.907 g mol-1.16 73.58 kPa 1.17 12.08 kPa 1.18 10 g 1.19 23 g mol-1, 3.53 kPa 1.20 269.07 K 1.21 A = 25.58 u and B = 42.64 u 1.22 0.061 M 1.24 KCl, CH3OH, CH3CN, Cyclohexane 1.25 Toluene, chloroform; Phenol, Pentanol;
+Formic acid, ethylelne glycol 1.26 5 m 1.27 2.45x10-8 M 1.28 1.424% 1.29 3.2 g of water 1.30 4.575 g 1.32 0.650 1.33 i = 1.0753, Ka = 3.07×10-3 1.34 17.44 mm Hg 1.35 178×10-5 1.36 280.7 torr, 32 torr 1.38 0.6 and 0.4 1.39 x (O2) 4.6x10-5, x (N2) 9.22×10-5 1.40 0.03 mol of CaCl2 1.41 5.27x10-3 atm.
+UNIT 2.4 (i) Eo = 0.34V, DrGo = – 196.86 kJ mol–1, K = 3.124 × 1034 (ii) Eo = 0.03V, DrGo = – 2.895 kJ mol–1, K = 3.2.5 (i) 2.68 V, (ii) 0.53 V, (iii) 0.08 V, (iv) –1.298 V 2.6 1.56 V 2.8 124.0 S cm2 mol–1 2.9 0.219 cm–1 2.11 1.85 × 10–5 2.12 3F, 2F, 5F 2.13 1F, 4.44F 2.14 2F, 1F 2.15 1.8258g 2.16 14.40 min, Copper 0.427g, Zinc 0.437 g UNIT 3.2 (i) 8.0 × 10 –9 mol L -1 s –1; 3.89 × 10 –9 mol L -1 s –1 3.4 bar –1/2s –1 3.6 (i) 4 times (ii) ¼ times 3.8 (i) 4.67 × 10 –3 mol L –1s –1 (ii) 1.98 × 10 –2 s –1 3.9 (i) rate = k[A][B] 2 (ii) 9 times Answers to Some Questions in Exercises Reprint 2026-27
+
+155 3.10 Orders with respect to A is 1.5 and order with respect to B is zero.
+3.11 rate law = k[A][B] 2; rate constant = 6.0 M –2min –1 3.13 (i) 3.47 x 10 –3 seconds (ii) 0.35 minutes (iii) 0.173 years 3.14 1845 years 3.16 4.6 × 10 –2 s 3.17 0.7814 mg and 0.227 mg.
+3.19 77.7 minutes 3.20 2.20 × 10 –3 s –1 3.21 2.23 × 10 –3 s –1, 7.8 ×10 –4 atm s –1 3.23 3.9 × 10 12 s –1 3.24 0.135 M 3.25 0.158 M 3.26 232.79 kJ mol –1 3.27 239.339 kJ mol –1 3.28 24°C 3.29 Ea = 76.750 kJ mol –1, k = 0.9965 × 10 –2 s –1 3.30 52.8 kJ mol –1 UNIT 4.2 It is because Mn2+ has 3d5 configuration which has extra stability.
+4.5 Stable oxidation states.
+3d3 (Vanadium): (+2), +3, +4, and +5 3d5 (Chromium): +3, +4, +6 3d5 (Manganese): +2, +4, +6, +7 3d8 (Nickel): +2, +3 (in complexes) 3d4 There is no d4 configuration in the ground state.
+4.6 Vanadate , 3 VO chromate 2 4 , CrO permanganate 4 MnO 4.10 +3 is the common oxidation state of the lanthanoids In addition to +3, oxidation states +2 and +4 are also exhibited by some of the lanthanoids.
+4.13 In transition elements the oxidation states vary from +1 to any highest oxidation state by one For example, for manganese it may vary as +2, +3, +4, +5, +6, +7. In the nontransition elements the variation is selective, always differing by 2, e.g. +2, +4, or +3, +5 or +4, +6 etc.
+4.18 Except Sc3+, all others will be coloured in aqueous solution because of incompletely filled 3d-orbitals, will give rise to d-d transitions.
+4.21 (i) Cr2+ is reducing as it involves change from d4 to d3, the latter is more stable configuration ( 3 ) 2g t Mn(III) to Mn(II) is from 3d4 to 3d5 again 3d5 is an extra stable configuration.
+(ii) Due to CFSE, which more than compensates the 3rd IE.
+(iii) The hydration or lattice energy more than compensates the ionisation enthalpy involved in re- moving electron from d1.
+4.23 Copper, because with +1 oxidation state an extra stable configuration, 3d10 results.
+4.24 Unpaired electrons Mn3+ = 4, Cr3+ = 3, V3+ = 2, Ti3+ = 1. Most stable Cr3+ 4.28 Second part 59, 95, 102.
+4.30 Lawrencium, 103, +3 4.36 Ti2+ = 2, V2+ = 3, Cr3+ = 3, Mn2+ = 5, Fe2+ = 6, Fe3+ = 5, CO2+ = 7, Ni2+ = 8, Cu2+ = 9 4.38 n(n 2) M  = 2.2, n » 1, d2 sp3, CN– strong ligand = 5.3, n » 4, sp3, d2, H2O weak ligand = 5.9, n » 5, sp3, Cl– weak ligand.
+Reprint 2026-27
+
+156 Chemistry UNIT 5.5 (i) + 3 (ii) +3 (iii) +2 (iv) +3 (v) +3 5.6 (i) [Zn(OH)4]2- (ii) K2[PdCl4] (iii) [Pt(NH3)2Cl2] (iv) K2[Ni(CN)4] (v) [Co(NH3)5(ONO)]2+ (vi) [Co(NH3)6]2(SO4)3 (vii) K3[Cr(C2O4)3] (viii) [Pt(NH3)6]4+ (ix) [CuBr4]2– (x) [Co(NH3)5(NO2)]2+ 5.9 (i) [Cr(C2O4)3]3" ¯ Nil (ii) [Co(NH3)3Cl3] ¯ Two (fac- and mer-) 5.12 Three (two cis and one trans) 5.13 Aqueous CuSO4 solution exists as [Cu(H2O)4]SO4 which has blue colour due to [Cu(H2O)4]2+ ions.
+(i) When KF is added, the weak H2O ligands are replaced by F¯ ligands, forming [CuF4]2" ions which is a green precipitate.
+[Cu(H2O)4]2+ + 4F– ® [CuF4]2– + 4H2O (ii) When KCl is added, Cl¯ ligands replace the weak H2O ligands forming [CuCl4)2– ions which has bright green colour.
+[Cu(H2O)4]2+ + 4Cl– ® [CuCl4]2– + 4H2O 5.14 [Cu(H2O)4]2+ + 4 CN– ® [Cu(CN)4]2- + 4H2O As CN¯ is a strong ligand, it forms a highly stable complex with Cu2+ ion. On passing H2S, free Cu2+ ions are not available to form the precipitate of CuS.
+5.23 (i) OS = +3, CN = 6, d-orbital occupation is t2g 6 eg 0, (ii) OS = +3, CN = 6, d3 (t2g 3), (iii) OS = +2, CN = 4, d7 ( t2g 5 eg 2), (iv) OS = +2, CN = 6, d5 (t2g 3 eg 2).
+5.28 (iii) 5.29 (ii) 5.30 (iii) 5.31 (iii) 5.32 (i) The order of the ligand in the spectrochemical series :
+H2O < NH3 < NO2 – Hence the energy of the observed light will be in the order :
+[Ni(H2O)6]2+ < [Ni(NH3)6]2+ < [Ni(NO2)6]4– Thus, wavelengths absorbed (E = hc/l) will be in the opposite order.
+Reprint 2026-27

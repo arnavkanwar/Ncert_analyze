@@ -1,0 +1,45 @@
+2026-04-02 03:35:23,103 - INFO - Running step: PDF to text
+2026-04-02 03:35:23,104 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/pdf_to_text.py --media-dir media --raw-text-dir output/raw_text
+2026-04-02 03:35:44,321 - INFO - Completed step: PDF to text
+2026-04-02 03:35:44,321 - INFO - Running step: Text to chunks
+2026-04-02 03:35:44,321 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/text_to_chunks.py --raw-text-dir output/raw_text --chunks-dir output/chunks
+2026-04-02 03:36:02,408 - INFO - Completed step: Text to chunks
+2026-04-02 03:36:02,409 - INFO - Running step: Chunks to embeddings
+2026-04-02 03:36:02,410 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/generate_embeddings.py --chunks-json output/chunks/all_chunks.json --output-json output/embeddings/all_embeddings.json --device cpu
+2026-04-02 03:41:48,471 - INFO - Completed step: Chunks to embeddings
+2026-04-02 03:41:48,471 - INFO - Running step: Embeddings to ChromaDB
+2026-04-02 03:41:48,472 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/chroma_store.py --embeddings-json output/embeddings/all_embeddings.json --chroma-dir chroma_db --collection ncert_chemistry --reset
+2026-04-02 03:42:16,285 - INFO - Completed step: Embeddings to ChromaDB
+2026-04-02 03:42:17,725 - INFO - Validation: chunk count = 1916
+2026-04-02 03:42:17,726 - INFO - Validation: embedding record_count = 1916
+2026-04-02 03:42:17,758 - INFO - Full pipeline completed successfully.
+2026-04-02 03:51:52,292 - INFO - Running step: PDF to text
+2026-04-02 03:51:52,293 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/pdf_to_text.py --media-dir media --raw-text-dir output/raw_text
+2026-04-02 03:52:05,363 - INFO - Completed step: PDF to text
+2026-04-02 03:52:05,364 - INFO - Running step: Text to chunks
+2026-04-02 03:52:05,364 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/text_to_chunks.py --raw-text-dir output/raw_text --chunks-dir output/chunks
+2026-04-02 03:52:16,770 - INFO - Completed step: Text to chunks
+2026-04-02 03:52:16,770 - INFO - Running step: Chunks to embeddings
+2026-04-02 03:52:16,770 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/generate_embeddings.py --chunks-json output/chunks/all_chunks.json --output-json output/embeddings/all_embeddings.json --device cpu
+2026-04-02 03:56:38,592 - INFO - Completed step: Chunks to embeddings
+2026-04-02 03:56:38,593 - INFO - Running step: Embeddings to ChromaDB
+2026-04-02 03:56:38,593 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/chroma_store.py --embeddings-json output/embeddings/all_embeddings.json --chroma-dir chroma_db --collection ncert_chemistry --reset
+2026-04-02 03:56:52,550 - INFO - Completed step: Embeddings to ChromaDB
+2026-04-02 03:56:53,265 - INFO - Validation: chunk count = 1916
+2026-04-02 03:56:53,265 - INFO - Validation: embedding record_count = 1916
+2026-04-02 03:56:53,281 - INFO - Full pipeline completed successfully.
+2026-04-02 04:12:07,604 - INFO - Running step: PDF to text
+2026-04-02 04:12:07,604 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/pdf_to_text.py --media-dir media --raw-text-dir output/raw_text
+2026-04-02 04:12:23,944 - INFO - Completed step: PDF to text
+2026-04-02 04:12:23,944 - INFO - Running step: Text to chunks
+2026-04-02 04:12:23,945 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/text_to_chunks.py --raw-text-dir output/raw_text --chunks-dir output/chunks
+2026-04-02 04:12:35,756 - INFO - Completed step: Text to chunks
+2026-04-02 04:12:35,757 - INFO - Running step: Chunks to embeddings
+2026-04-02 04:12:35,757 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/generate_embeddings.py --chunks-json output/chunks/all_chunks.json --output-json output/embeddings/all_embeddings.json --device cpu
+2026-04-02 04:16:17,181 - INFO - Completed step: Chunks to embeddings
+2026-04-02 04:16:17,181 - INFO - Running step: Embeddings to ChromaDB
+2026-04-02 04:16:17,181 - INFO - Command: C:\Ai_ML_sem4\.venv\Scripts\python.exe scripts/chroma_store.py --embeddings-json output/embeddings/all_embeddings.json --chroma-dir chroma_db --collection ncert_chemistry --reset
+2026-04-02 04:16:33,507 - INFO - Completed step: Embeddings to ChromaDB
+2026-04-02 04:16:34,014 - INFO - Validation: chunk count = 1388
+2026-04-02 04:16:34,014 - INFO - Validation: embedding record_count = 1388
+2026-04-02 04:16:34,028 - INFO - Full pipeline completed successfully.

@@ -1,0 +1,102 @@
+2026-04-02 03:35:59,822 - src.pipeline.chunking - INFO - Found 20 text files in output\raw_text
+2026-04-02 03:35:59,865 - src.pipeline.chunking - INFO - Saved 130 chunks to output\chunks\lech101_chunks.json
+2026-04-02 03:35:59,907 - src.pipeline.chunking - INFO - Saved 126 chunks to output\chunks\lech102_chunks.json
+2026-04-02 03:35:59,945 - src.pipeline.chunking - INFO - Saved 93 chunks to output\chunks\lech103_chunks.json
+2026-04-02 03:35:59,983 - src.pipeline.chunking - INFO - Saved 130 chunks to output\chunks\lech104_chunks.json
+2026-04-02 03:36:00,020 - src.pipeline.chunking - INFO - Saved 105 chunks to output\chunks\lech105_chunks.json
+2026-04-02 03:36:00,051 - src.pipeline.chunking - INFO - Saved 28 chunks to output\chunks\lech1a1_chunks.json
+2026-04-02 03:36:00,075 - src.pipeline.chunking - INFO - Saved 11 chunks to output\chunks\lech1an_chunks.json
+2026-04-02 03:36:00,101 - src.pipeline.chunking - INFO - Saved 32 chunks to output\chunks\lech1ps_chunks.json
+2026-04-02 03:36:00,137 - src.pipeline.chunking - INFO - Saved 109 chunks to output\chunks\lech201_chunks.json
+2026-04-02 03:36:00,169 - src.pipeline.chunking - INFO - Saved 90 chunks to output\chunks\lech202_chunks.json
+2026-04-02 03:36:00,202 - src.pipeline.chunking - INFO - Saved 87 chunks to output\chunks\lech203_chunks.json
+2026-04-02 03:36:00,230 - src.pipeline.chunking - INFO - Saved 67 chunks to output\chunks\lech204_chunks.json
+2026-04-02 03:36:00,269 - src.pipeline.chunking - INFO - Saved 75 chunks to output\chunks\lech205_chunks.json
+2026-04-02 03:36:00,288 - src.pipeline.chunking - INFO - Saved 6 chunks to output\chunks\lech2an_chunks.json
+2026-04-02 03:36:00,314 - src.pipeline.chunking - INFO - Saved 34 chunks to output\chunks\lech2ps_chunks.json
+2026-04-02 03:36:00,341 - src.pipeline.chunking - INFO - Saved 153 chunks to output\chunks\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe_chunks.json
+2026-04-02 03:36:00,365 - src.pipeline.chunking - INFO - Saved 169 chunks to output\chunks\73531863-aea1-4a79-8db4-b4c8c7df92ab_chunks.json
+2026-04-02 03:36:00,392 - src.pipeline.chunking - INFO - Saved 150 chunks to output\chunks\8251b8fc-1039-4cda-84df-e82aa431744d_chunks.json
+2026-04-02 03:36:00,418 - src.pipeline.chunking - INFO - Saved 161 chunks to output\chunks\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8_chunks.json
+2026-04-02 03:36:00,443 - src.pipeline.chunking - INFO - Saved 160 chunks to output\chunks\ec991df6-1608-405c-a523-3045ed4eba7b_chunks.json
+2026-04-02 03:36:00,462 - src.pipeline.chunking - INFO - Saved combined chunk file with 1916 chunks: output\chunks\all_chunks.json
+2026-04-02 03:36:00,463 - root - INFO - Chunk generation complete with 1916 total chunks
+2026-04-02 03:52:15,126 - src.pipeline.chunking - INFO - Found 20 text files in output\raw_text
+2026-04-02 03:52:15,156 - src.pipeline.chunking - INFO - Saved 130 chunks to output\chunks\lech101_chunks.json
+2026-04-02 03:52:15,181 - src.pipeline.chunking - INFO - Saved 126 chunks to output\chunks\lech102_chunks.json
+2026-04-02 03:52:15,205 - src.pipeline.chunking - INFO - Saved 93 chunks to output\chunks\lech103_chunks.json
+2026-04-02 03:52:15,229 - src.pipeline.chunking - INFO - Saved 130 chunks to output\chunks\lech104_chunks.json
+2026-04-02 03:52:15,250 - src.pipeline.chunking - INFO - Saved 105 chunks to output\chunks\lech105_chunks.json
+2026-04-02 03:52:15,270 - src.pipeline.chunking - INFO - Saved 28 chunks to output\chunks\lech1a1_chunks.json
+2026-04-02 03:52:15,273 - src.pipeline.chunking - INFO - Saved 11 chunks to output\chunks\lech1an_chunks.json
+2026-04-02 03:52:15,293 - src.pipeline.chunking - INFO - Saved 32 chunks to output\chunks\lech1ps_chunks.json
+2026-04-02 03:52:15,314 - src.pipeline.chunking - INFO - Saved 109 chunks to output\chunks\lech201_chunks.json
+2026-04-02 03:52:15,338 - src.pipeline.chunking - INFO - Saved 90 chunks to output\chunks\lech202_chunks.json
+2026-04-02 03:52:15,360 - src.pipeline.chunking - INFO - Saved 87 chunks to output\chunks\lech203_chunks.json
+2026-04-02 03:52:15,381 - src.pipeline.chunking - INFO - Saved 67 chunks to output\chunks\lech204_chunks.json
+2026-04-02 03:52:15,408 - src.pipeline.chunking - INFO - Saved 75 chunks to output\chunks\lech205_chunks.json
+2026-04-02 03:52:15,411 - src.pipeline.chunking - INFO - Saved 6 chunks to output\chunks\lech2an_chunks.json
+2026-04-02 03:52:15,431 - src.pipeline.chunking - INFO - Saved 34 chunks to output\chunks\lech2ps_chunks.json
+2026-04-02 03:52:15,453 - src.pipeline.chunking - INFO - Saved 153 chunks to output\chunks\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe_chunks.json
+2026-04-02 03:52:15,475 - src.pipeline.chunking - INFO - Saved 169 chunks to output\chunks\73531863-aea1-4a79-8db4-b4c8c7df92ab_chunks.json
+2026-04-02 03:52:15,497 - src.pipeline.chunking - INFO - Saved 150 chunks to output\chunks\8251b8fc-1039-4cda-84df-e82aa431744d_chunks.json
+2026-04-02 03:52:15,517 - src.pipeline.chunking - INFO - Saved 161 chunks to output\chunks\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8_chunks.json
+2026-04-02 03:52:15,536 - src.pipeline.chunking - INFO - Saved 160 chunks to output\chunks\ec991df6-1608-405c-a523-3045ed4eba7b_chunks.json
+2026-04-02 03:52:15,546 - src.pipeline.chunking - INFO - Saved combined chunk file with 1916 chunks: output\chunks\all_chunks.json
+2026-04-02 03:52:15,547 - root - INFO - Chunk generation complete with 1916 total chunks
+2026-04-02 04:12:33,900 - src.pipeline.chunking - INFO - Found 20 text files in output\raw_text
+2026-04-02 04:12:33,945 - src.pipeline.chunking - INFO - Saved 123 chunks to output\chunks\lech101_chunks.json
+2026-04-02 04:12:33,980 - src.pipeline.chunking - INFO - Saved 113 chunks to output\chunks\lech102_chunks.json
+2026-04-02 04:12:34,025 - src.pipeline.chunking - INFO - Saved 86 chunks to output\chunks\lech103_chunks.json
+2026-04-02 04:12:34,068 - src.pipeline.chunking - INFO - Saved 125 chunks to output\chunks\lech104_chunks.json
+2026-04-02 04:12:34,105 - src.pipeline.chunking - INFO - Saved 97 chunks to output\chunks\lech105_chunks.json
+2026-04-02 04:12:34,128 - src.pipeline.chunking - INFO - Saved 19 chunks to output\chunks\lech1a1_chunks.json
+2026-04-02 04:12:34,147 - src.pipeline.chunking - INFO - Saved 5 chunks to output\chunks\lech1an_chunks.json
+2026-04-02 04:12:34,173 - src.pipeline.chunking - INFO - Saved 28 chunks to output\chunks\lech1ps_chunks.json
+2026-04-02 04:12:34,206 - src.pipeline.chunking - INFO - Saved 102 chunks to output\chunks\lech201_chunks.json
+2026-04-02 04:12:34,239 - src.pipeline.chunking - INFO - Saved 88 chunks to output\chunks\lech202_chunks.json
+2026-04-02 04:12:34,274 - src.pipeline.chunking - INFO - Saved 82 chunks to output\chunks\lech203_chunks.json
+2026-04-02 04:12:34,310 - src.pipeline.chunking - INFO - Saved 62 chunks to output\chunks\lech204_chunks.json
+2026-04-02 04:12:34,347 - src.pipeline.chunking - INFO - Saved 74 chunks to output\chunks\lech205_chunks.json
+2026-04-02 04:12:34,363 - src.pipeline.chunking - INFO - Saved 4 chunks to output\chunks\lech2an_chunks.json
+2026-04-02 04:12:34,386 - src.pipeline.chunking - INFO - Saved 32 chunks to output\chunks\lech2ps_chunks.json
+2026-04-02 04:12:34,412 - src.pipeline.chunking - INFO - Saved 76 chunks to output\chunks\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe_chunks.json
+2026-04-02 04:12:34,432 - src.pipeline.chunking - INFO - Saved 79 chunks to output\chunks\73531863-aea1-4a79-8db4-b4c8c7df92ab_chunks.json
+2026-04-02 04:12:34,453 - src.pipeline.chunking - INFO - Saved 61 chunks to output\chunks\8251b8fc-1039-4cda-84df-e82aa431744d_chunks.json
+2026-04-02 04:12:34,477 - src.pipeline.chunking - INFO - Saved 68 chunks to output\chunks\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8_chunks.json
+2026-04-02 04:12:34,501 - src.pipeline.chunking - INFO - Saved 64 chunks to output\chunks\ec991df6-1608-405c-a523-3045ed4eba7b_chunks.json
+2026-04-02 04:12:34,510 - src.pipeline.chunking - INFO - Saved combined chunk file with 1388 chunks: output\chunks\all_chunks.json
+2026-04-02 04:12:34,510 - root - INFO - Chunk generation complete with 1388 total chunks
+2026-04-16 09:52:56,031 - src.pipeline.chunking - INFO - Found 20 text files in output\raw_text
+2026-04-16 09:52:56,072 - src.pipeline.chunking - INFO - Saved 71 chunks to output\chunks\lech101_chunks.json (was 72 raw paragraphs)
+2026-04-16 09:52:56,106 - src.pipeline.chunking - INFO - Saved 59 chunks to output\chunks\lech102_chunks.json (was 64 raw paragraphs)
+2026-04-16 09:52:56,134 - src.pipeline.chunking - INFO - Saved 47 chunks to output\chunks\lech103_chunks.json (was 49 raw paragraphs)
+2026-04-16 09:52:56,170 - src.pipeline.chunking - INFO - Saved 66 chunks to output\chunks\lech104_chunks.json (was 67 raw paragraphs)
+2026-04-16 09:52:56,201 - src.pipeline.chunking - INFO - Saved 52 chunks to output\chunks\lech105_chunks.json (was 52 raw paragraphs)
+2026-04-16 09:52:56,224 - src.pipeline.chunking - INFO - Saved 13 chunks to output\chunks\lech1a1_chunks.json (was 21 raw paragraphs)
+2026-04-16 09:52:56,237 - src.pipeline.chunking - INFO - Saved 3 chunks to output\chunks\lech1an_chunks.json (was 4 raw paragraphs)
+2026-04-16 09:52:56,253 - src.pipeline.chunking - INFO - Saved 18 chunks to output\chunks\lech1ps_chunks.json (was 18 raw paragraphs)
+2026-04-16 09:52:56,282 - src.pipeline.chunking - INFO - Saved 58 chunks to output\chunks\lech201_chunks.json (was 59 raw paragraphs)
+2026-04-16 09:52:56,312 - src.pipeline.chunking - INFO - Saved 51 chunks to output\chunks\lech202_chunks.json (was 51 raw paragraphs)
+2026-04-16 09:52:56,338 - src.pipeline.chunking - INFO - Saved 52 chunks to output\chunks\lech203_chunks.json (was 52 raw paragraphs)
+2026-04-16 09:52:56,364 - src.pipeline.chunking - INFO - Saved 37 chunks to output\chunks\lech204_chunks.json (was 37 raw paragraphs)
+2026-04-16 09:52:56,397 - src.pipeline.chunking - INFO - Saved 40 chunks to output\chunks\lech205_chunks.json (was 40 raw paragraphs)
+2026-04-16 09:52:56,414 - src.pipeline.chunking - INFO - Saved 4 chunks to output\chunks\lech2an_chunks.json (was 4 raw paragraphs)
+2026-04-16 09:52:56,436 - src.pipeline.chunking - INFO - Saved 20 chunks to output\chunks\lech2ps_chunks.json (was 20 raw paragraphs)
+2026-04-16 09:52:56,459 - src.pipeline.chunking - INFO - Saved 15 chunks to output\chunks\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe_chunks.json (was 15 raw paragraphs)
+2026-04-16 09:52:56,478 - src.pipeline.chunking - INFO - Saved 12 chunks to output\chunks\73531863-aea1-4a79-8db4-b4c8c7df92ab_chunks.json (was 13 raw paragraphs)
+2026-04-16 09:52:56,499 - src.pipeline.chunking - INFO - Saved 12 chunks to output\chunks\8251b8fc-1039-4cda-84df-e82aa431744d_chunks.json (was 12 raw paragraphs)
+2026-04-16 09:52:56,514 - src.pipeline.chunking - INFO - Saved 15 chunks to output\chunks\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8_chunks.json (was 17 raw paragraphs)
+2026-04-16 09:52:56,528 - src.pipeline.chunking - INFO - Saved 14 chunks to output\chunks\ec991df6-1608-405c-a523-3045ed4eba7b_chunks.json (was 14 raw paragraphs)
+2026-04-16 09:52:56,540 - src.pipeline.chunking - INFO - Saved combined chunk file with 659 chunks: output\chunks\all_chunks.json
+2026-04-16 09:52:56,540 - root - INFO - Chunk generation complete with 659 total chunks
+2026-04-19 22:34:56,245 - src.pipeline.chunking - INFO - Found 1 text files in C:\Ai_ML_sem4\output\raw_text_upload
+2026-04-19 22:34:56,260 - src.pipeline.chunking - INFO - Filtered PYQ chunks for 1_The_living_world_-_Entrance_questions__2_.txt: 3 -> 3
+2026-04-19 22:34:56,264 - src.pipeline.chunking - INFO - Saved 3 chunks to C:\Ai_ML_sem4\output\chunks_upload\1_The_living_world_-_Entrance_questions__2__chunks.json (was 3 raw paragraphs)
+2026-04-19 22:34:56,266 - src.pipeline.chunking - INFO - Saved combined chunk file with 3 chunks: C:\Ai_ML_sem4\output\chunks_upload\all_chunks.json
+2026-04-19 22:34:56,266 - root - INFO - Chunk generation complete with 3 total chunks
+2026-04-19 22:40:20,781 - src.pipeline.chunking - INFO - Found 1 text files in C:\Ai_ML_sem4\output\raw_text_upload
+2026-04-19 22:40:20,789 - src.pipeline.chunking - INFO - Filtered PYQ chunks for 1_The_living_world_-_Entrance_questions__2_.txt: 3 -> 3
+2026-04-19 22:40:20,791 - src.pipeline.chunking - INFO - Saved 3 chunks to C:\Ai_ML_sem4\output\chunks_upload\1_The_living_world_-_Entrance_questions__2__chunks.json (was 3 raw paragraphs)
+2026-04-19 22:40:20,792 - src.pipeline.chunking - INFO - Saved combined chunk file with 3 chunks: C:\Ai_ML_sem4\output\chunks_upload\all_chunks.json
+2026-04-19 22:40:20,793 - root - INFO - Chunk generation complete with 3 total chunks

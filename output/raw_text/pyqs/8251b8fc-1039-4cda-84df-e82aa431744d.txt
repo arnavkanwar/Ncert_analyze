@@ -1,0 +1,354 @@
+[1]
+
+CHEMISTRY Section-A 1.
+When MnO2 is fused with KOH in air, it gives:
+
+(a) KMnO4 (b) K2MnO4
+
+(c) Kn2O7 (d) Mn2O3
+
+2.
+Ligand EDTA4– is an example of a:
+
+(a) Monodentate ligand
+
+(b) Didentate ligand
+
+(c) tridentate ligand
+
+(d) Polydentate ligand
+
+3.
+Which of the following ligand forms chelate complex?
+
+(a) 2 4 C O − (b) Cl–
+
+(c) 2 NO− (d) NH3
+
+4.
+Which of the following contains sp2 hybridised carbon bonded to X?
+
+(a) CH2 = CH – CH2 – X
+
+(b)
+
+(c) CH2 = CH – X
+
+(d) CH3 – CH2 – X
+
+5.
+Which of the following is most acidic?
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+6.
+Anisole reacts with HI to give:
+
+(a) + CH3 – 1
+
+(b) + CH3 – OH
+
+(c) + CH3 – I
+
+(d) + CH3 – OH 7.
+Ethanol on heating with conc. H2SO4 at 413 K gives:
+
+(a) C2H5OSO3H
+
+(b) C2H5 – O – CH3
+
+(c) C2H5 – O – C2H5
+
+(d) CH2 = CH2
+
+8.
+All azeotropic solution of two liquids has boiling point lower than either of them when it:
+
+(a) is saturated
+
+(b) shows positive delation from Raoult’s law
+
+(c) shows negative deviation from Raoult’s law
+
+(d) shows no deviation from Raoult’s law
+
+9.
+The relative lowering of vapour pressure of an aqueous solution containing non-volatile solute is 0.0225. The mole fraction of the non-volatile solute is:
+
+(a) 0.80 (b) 0.725
+
+(c) 0.15 (d) 0.0225
+
+10.
+During electrolysis of aqueous solution of NaCl.
+
+(a) H2(g) is liberated at cathode
+
+(b) Na is formed at cathode
+
+(c) O2(g) is liberated at anode
+
+(d) Cl2(g) is liberated at cathode
+
+11.
+The addition of catalyst during a chemical reaction alters which of the following quantities of the reaction?
+
+(a) Enthalpy
+
+(b) Activation energy
+
+(c) Entropy
+
+(d) Internal energy
+
+12.
+For the elementary reaction P → Q, the rate of disappearance of ‘P’ increases by a factor of 8 upon doubling the concentration of ‘P’. The order of the reaction with respect to ‘P’ is:
+
+(a) 3 (b) 4
+
+(c) 2 (d) 1
+
+2024 Previous Year Questions (Set-2)
+
+[2]
+
+Questions number 13 and 16 are Assertion and Reason based questions carrying 1 mark each. Two statements are given, one labelled Assertion and the other labelled Reason. Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+(a) Both Assertion and Reason are true and Reason is the correct explanation of the Assertion.
+(b) Both Assertion and Reason are true, but Reason is not the correct explanation of the Assertion.
+(c) Assertion is true, but Reason is false.
+(d) Assertion is false and Reason is also false.
+
+13.
+Assertion: Aliphatic primary amines can be prepared by Gabriel phthalimide synthesis.
+
+Reason:
+Alkyl halides undergo nucleophilic substitution with anion formed by phthalimide.
+
+14.
+Assertion: Uracil base is present in DNA.
+
+Reason: DNA undergoes self-replication.
+
+15.
+Assertion: Diazonium salts of aromatic amines are more stable than those of aliphatic amines.
+
+Reason: Diazonium salts of aliphatic amines show resonance.
+
+16.
+Assertion: p-nitroaniline is a weaker base than p- toluidine.
+
+Reason: The electron withdrawing effect of – NO2 group in p-nitroaniline makes it a weaker base.
+
+Section-B This section comprises Very Short Answer Type questions (VSA) of 2 marks each.
+17.
+A 6% solution of glucose (molar mass = 180 g mol–1) is isotonic with 2.5% solution of an unknown organic substance. Calculate the molecular weight of the unknown organic substance.
+
+18.
+A first order reaction has a rate constanttttttttttttttttt1.25 × 10–3 s–1. How long will 5 g of this reactant take to reduce to 2.5 g?
+
+[log 2 = 0.301, log 3 = 0.4771, log 4= 0.6021]
+
+19.
+(a) What is lanthanoid contraction? Actinoid contraction is greater from element to element than lanthanoid contraction. Why?
+OR
+
+(b) Why do transition metals have high enthalpy of atomization?
+
+Which element of 3d-series has lowest enthalpy of atomization?
+
+20.
+(a) In the following pair of compounds, which compound undergoes SN2 reaction faster and why?
+
+(b) Write the major product in the following:
+
+2 Cl , UV light ⎯⎯⎯⎯⎯→ 21.
+Define the following terms:
+
+(a) Denaturation of protein
+
+(b) Invert sugar
+
+Section-C This section comprises short answer (SA) type questions of 3 marks each.
+22.
+Write the structure of A, B and C in the following reactions:
+
+(a) KCN OH 3 2 Partialhydrolysis CH Br A − − − ⎯⎯⎯→ ⎯⎯⎯⎯⎯⎯ →
+
+2 NaOH Br B C + ⎯⎯⎯⎯→
+
+(b) 5 2 C2H OH NaNO HCl Fe HCl 273 278K A B C + + − ⎯⎯⎯⎯ → ⎯⎯⎯⎯⎯→⎯⎯⎯⎯→
+
+23.
+Write the reaction involved in the following:
+
+(a) Wolff-Kishner reduction
+
+(b) Decarboxylation reaction
+
+(c) Cannizzaro reaction
+
+24.
+Give the equations of reactions for the preparation of:
+(any three)
+
+(a) Phenol from chlorobenzene
+
+(b) Salicylaldehyde from phenol
+
+(c) 2-Methoxyacetophenone from anisole
+
+(d) Picric acid from phenol
+
+25.
+Give reasons for the following:
+
+(a) Chlorine is ortho/para directing in electrophilic aromatic substitution reactions, though chlorine is an electron withdrawing group.
+
+(b) Racemic mixture is optically inactive.
+
+(c) Allyl chloride is hydrolysed more readily than n- propyl chloride.
+
+[3]
+
+26.
+The vapour pressure of a solvent at 283 K is 100 mm Hg. Calculate the vapour pressure of a dilute solution containing 1 mole of a strong electrolyte AB in 50 moles of the solvent at 283 K (assuming complete dissociation of solute AB).
+
+27.
+Calculate emf of the following cell:
+
+Zn(s) | Zn2+ (0.1 M) || Sn2+ (0.001 M) | Sn(s)
+
+Given:
+2 0 Zn /Zn Sn /Sn E 0.76V,E 0.14V + + = − = −
+
+[log 10 = 1]
+
+28.
+The rate of a gaseous reaction triples when temperature is increased from 17°C to 27°C.
+Calculate the energy of activation for this reaction.
+
+[Given: 2.303 R = 19,15 JK–1 mol–1, log 3 = 0.45]
+
+Section-D This section comprises 5 case study based questions of 4 marks each.
+29.
+Carbohydrates are essential for life in both plants and animals. Carbohydrates are used as storage molecules as starch in plants and glycogen in animals.
+Chemically they are polyhydroxy aldehydes or ketones. On the basis of their behaviour on hydrolysis, carbohydrates are classified as monosaccharides, oligosaccharides and polysaccharides.
+All monosaccharides are reducing sugars, i.e., they are oxidized by Tollens’ reagent and Fehling’s solution.
+A monosaccharide like glucose is aldohexose and its molecular formula was found to be C6H12O6. After reacting with different reagents like HI, H2N – OH, Bromine water, (CH3CO2O), etc. its structure was found to contain one aldehyde group, one primary’ alcoholic group, (–CH2OH) and four secondary alcoholic groups (> CH2OH). Despite having the aldehyde group, glucose does not give some of the reactions of aldehyde group like Schiff’s test, NaHSO3 addition. This explains the existence of glucose in two cyclic hemiacetal forms which differ only in the configuration of the hydroxyl group at C – l.
+
+Answer the following questions:
+
+(a) What are reducing sugars?
+
+(b) Classify’ the following into monosaccharide and disaccharide:
+
+Fructose, Sucrose, Lactose, Galactose
+
+(c) Name the polysaccharide which is known as ‘animal starch’. Why is it called ‘animal starch’?
+OR
+
+(c) (i) Name the isomers of glucose which in the cyclic form differ only in the configuration of the – OH group at C – 1.
+
+(ii) Presence of which functional group was detected when glucose reacted with Br2 water?
+
+30.
+Transition metals have incomplete d-subshell either in neutral atom or in their ions. The presence of partly filled d-orbitals in their atoms makes transition elements different from that of the non-transition elements. With partly filled d-orbitals, these elements exhibit certain characteristic properties such as display of a variety7 of oxidation states, formation of coloured ions and entering into complex formation with a variety of ligands. The transition metals and their compounds also exhibit catalytic properties and paramagnetic behaviour. The transition metals are very hard and have low volatility. An examination of the 2 0 M /M E + values shown the varying trends:
+
+2 0 M /M E +
+
+V –1.18 Cr –0.91 Mn –1.13 Fe –0.44 Co –0.28 Ni –0.25 Cu –0.34 Zn –0.76
+
+Answer the following questions:
+
+(a) On what basis can we say that Cu is a transition element but Zn is not? (Atomic number: Cu = 29, Zn = 30)
+
+(b) Why do transition elements show variety of oxidation states?
+
+(c) (i) Why do 2 0 M /M E + values show irregular trend from Vanadium to Zinc?
+
+(ii) How is the variability in oxidation states of transition metals different from that of the non-transition elements?
+OR
+
+(c) (i) Of the d4 species, Cr2+ is strongly reducing while Mn3+ is strongly oxidizing. Why?
+(Atomic number. Cr = 24, Mn = 25)
+
+(ii) Complete the following ionic equation:
+
+4 2 3MnO H O I − − + + ⎯⎯→
+
+[4]
+
+Section-E 31.
+Answer the five of the following:
+
+(a) How is the crystal field splitting energy for octahedral complex ( o  related to that of tetrahedral complex ( t )?
+
+(b) write the IUPAC name of the following complex:
+
+[PtCl2(en)2] (NO3)2
+
+(c) Write the geometry and magnetic behaviour of the complex [Ni(CO)4] on the basis of Valency Bond Theory (VBT).
+
+(d) What type of isomerism is shown by the complex
+
+[Co(NH3)6] [Cr(CN)6]?
+
+(e) For the coordination compound on the basis of crystal field theory, write the electronic configuration for d4 ion if o  < P. Is the coordination compound a high spin or low spin complex?
+
+(f) Out of [Co(NH3)6]3+ and [Co(NH3)4Cl2]+, which complex is heteroleptic and why?
+
+(g) Draw the structure of optical isomers of [PtCl2(3n)2]2+.
+
+32.
+(a) (i) Account for the following:
+
+(1) Oxidation of aldehydes is easier as compared to ketones.
+
+(2) The alpha () hydrogen atoms of aldehydes are acidic in nature.
+
+(ii) Write the products in the following reactions:
+
+(1) 2 NaOH/I ? ?
+⎯⎯⎯⎯→+
+
+(2) 3 2 (CH ) Cd ? CdCl + ⎯⎯→+
+
+(iii) Give a simple chemical test to distinguish between ethanoic acid and ethanal.
+OR
+
+(b) (i) Draw structure of the 2,4- dinitrophenylhydrazone of benzaldehyde.
+
+(ii) Arrange the following in increasing order of their reactivity towards HCN:
+
+3 CH COCH , (CH ) C COCH , CH CHO −
+
+(iii) How can you convert phenyl magnesium bromide to benzoic acid?
+
+(iv) Give a simple chemical test to distinguish between benzaldehyde and ethanal.
+
+(v) Write the main product in the following reaction:
+
+4 (i)NaBH 3 2 5 (ii)H CH C CH COOC H O + − − − ⎯⎯⎯⎯→  ?
+
+33.
+(a) (i) The resistance of 0.05 M CH3COOH solution is found to be 100 ohm. If the cell constant is 0.0354 cm–1, calculate the molar conductivity of the acetic acid solution.
+
+(ii) State Faraday’s first law of electrolysis.
+How much charge in Facraday is required for the reduction of 1 mol of 4 MnO− to Mn2+?
+OR
+
+(b) (i) The conductivity of 0.0025 mol L–1 acetic acid is 5.25 × 10–5 S cm–1. Calculate its degree of dissociation if o m  for acetic acid is 390 S cm2 mol–1.
+
+(ii) Write anode, cathode and overall reaction of lead storage battery.
+
+◼◼◼
+
+[5]
+
+SPACE FOR ROUGH WORK

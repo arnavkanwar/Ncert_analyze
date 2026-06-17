@@ -1,0 +1,297 @@
+<<<<<<< HEAD
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "NCERT Chunk Schema",
+  "description": "JSON schema for NCERT textbook content chunks",
+  "version": "1.0",
+  "type": "object",
+  "required": [
+    "chunk_id",
+    "text",
+    "char_count",
+    "word_count",
+    "metadata"
+  ],
+  "properties": {
+    "chunk_id": {
+      "type": "string",
+      "description": "Unique identifier for the chunk",
+      "pattern": "^[a-z0-9]+_[a-z0-9]+_ch[0-9]+_p[0-9]{3}$",
+      "example": "class10_science_ch1_p003"
+    },
+    "text": {
+      "type": "string",
+      "description": "The actual text content of the chunk",
+      "minLength": 1
+    },
+    "char_count": {
+      "type": "integer",
+      "description": "Number of characters in the chunk",
+      "minimum": 1
+    },
+    "word_count": {
+      "type": "integer",
+      "description": "Number of words in the chunk",
+      "minimum": 1
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "chunk_id",
+        "source_file",
+        "class_name",
+        "subject",
+        "chapter",
+        "created_at",
+        "schema_version"
+      ],
+      "properties": {
+        "chunk_id": {
+          "type": "string",
+          "description": "Chunk identifier (same as parent chunk_id)"
+        },
+        "source_file": {
+          "type": "string",
+          "description": "Path to source markdown file"
+        },
+        "class_name": {
+          "type": "string",
+          "description": "Educational class level",
+          "pattern": "^class[0-9]+$",
+          "example": "class10"
+        },
+        "subject": {
+          "type": "string",
+          "description": "Subject name",
+          "example": "science"
+        },
+        "book": {
+          "type": "string",
+          "description": "Book identifier",
+          "pattern": "^book[0-9]+$",
+          "example": "book1"
+        },
+        "chapter": {
+          "type": "string",
+          "description": "Chapter identifier",
+          "pattern": "^ch[0-9]+$",
+          "example": "ch1"
+        },
+        "heading_h1": {
+          "type": "string",
+          "description": "Primary heading (chapter title)"
+        },
+        "heading_h2": {
+          "type": "string",
+          "description": "Secondary heading (section title)"
+        },
+        "heading_h3": {
+          "type": "string",
+          "description": "Tertiary heading (subsection title)"
+        },
+        "paragraph_number": {
+          "type": "integer",
+          "description": "Paragraph number within the chapter",
+          "minimum": 1
+        },
+        "char_count": {
+          "type": "integer",
+          "description": "Number of characters"
+        },
+        "word_count": {
+          "type": "integer",
+          "description": "Number of words"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of chunk creation"
+        },
+        "schema_version": {
+          "type": "string",
+          "description": "Version of the chunk schema",
+          "example": "1.0"
+        },
+        "line_number": {
+          "type": "integer",
+          "description": "Starting line number in source file",
+          "minimum": 0
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "chunk_id": "class10_science_ch1_p003",
+      "text": "Photosynthesis is the process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water. This process occurs in the chloroplasts of plant cells and is essential for life on Earth as it produces oxygen as a byproduct.",
+      "char_count": 223,
+      "word_count": 42,
+      "metadata": {
+        "chunk_id": "class10_science_ch1_p003",
+        "source_file": "data/NCERT/Class_10/Science/Book_1/Chapter_01/chapter.md",
+        "class_name": "class10",
+        "subject": "science",
+        "book": "book1",
+        "chapter": "ch1",
+        "heading_h1": "Life Processes",
+        "heading_h2": "Nutrition",
+        "heading_h3": "Autotrophic Nutrition",
+        "paragraph_number": 3,
+        "char_count": 223,
+        "word_count": 42,
+        "created_at": "2026-03-12T10:30:45.123456",
+        "schema_version": "1.0",
+        "line_number": 45
+      }
+    }
+  ]
+}
+=======
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "NCERT Chunk Schema",
+  "description": "JSON schema for NCERT textbook content chunks",
+  "version": "1.0",
+  "type": "object",
+  "required": [
+    "chunk_id",
+    "text",
+    "char_count",
+    "word_count",
+    "metadata"
+  ],
+  "properties": {
+    "chunk_id": {
+      "type": "string",
+      "description": "Unique identifier for the chunk",
+      "pattern": "^[a-z0-9]+_[a-z0-9]+_ch[0-9]+_p[0-9]{3}$",
+      "example": "class10_science_ch1_p003"
+    },
+    "text": {
+      "type": "string",
+      "description": "The actual text content of the chunk",
+      "minLength": 1
+    },
+    "char_count": {
+      "type": "integer",
+      "description": "Number of characters in the chunk",
+      "minimum": 1
+    },
+    "word_count": {
+      "type": "integer",
+      "description": "Number of words in the chunk",
+      "minimum": 1
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "chunk_id",
+        "source_file",
+        "class_name",
+        "subject",
+        "chapter",
+        "created_at",
+        "schema_version"
+      ],
+      "properties": {
+        "chunk_id": {
+          "type": "string",
+          "description": "Chunk identifier (same as parent chunk_id)"
+        },
+        "source_file": {
+          "type": "string",
+          "description": "Path to source markdown file"
+        },
+        "class_name": {
+          "type": "string",
+          "description": "Educational class level",
+          "pattern": "^class[0-9]+$",
+          "example": "class10"
+        },
+        "subject": {
+          "type": "string",
+          "description": "Subject name",
+          "example": "science"
+        },
+        "book": {
+          "type": "string",
+          "description": "Book identifier",
+          "pattern": "^book[0-9]+$",
+          "example": "book1"
+        },
+        "chapter": {
+          "type": "string",
+          "description": "Chapter identifier",
+          "pattern": "^ch[0-9]+$",
+          "example": "ch1"
+        },
+        "heading_h1": {
+          "type": "string",
+          "description": "Primary heading (chapter title)"
+        },
+        "heading_h2": {
+          "type": "string",
+          "description": "Secondary heading (section title)"
+        },
+        "heading_h3": {
+          "type": "string",
+          "description": "Tertiary heading (subsection title)"
+        },
+        "paragraph_number": {
+          "type": "integer",
+          "description": "Paragraph number within the chapter",
+          "minimum": 1
+        },
+        "char_count": {
+          "type": "integer",
+          "description": "Number of characters"
+        },
+        "word_count": {
+          "type": "integer",
+          "description": "Number of words"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of chunk creation"
+        },
+        "schema_version": {
+          "type": "string",
+          "description": "Version of the chunk schema",
+          "example": "1.0"
+        },
+        "line_number": {
+          "type": "integer",
+          "description": "Starting line number in source file",
+          "minimum": 0
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "chunk_id": "class10_science_ch1_p003",
+      "text": "Photosynthesis is the process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water. This process occurs in the chloroplasts of plant cells and is essential for life on Earth as it produces oxygen as a byproduct.",
+      "char_count": 223,
+      "word_count": 42,
+      "metadata": {
+        "chunk_id": "class10_science_ch1_p003",
+        "source_file": "data/NCERT/Class_10/Science/Book_1/Chapter_01/chapter.md",
+        "class_name": "class10",
+        "subject": "science",
+        "book": "book1",
+        "chapter": "ch1",
+        "heading_h1": "Life Processes",
+        "heading_h2": "Nutrition",
+        "heading_h3": "Autotrophic Nutrition",
+        "paragraph_number": 3,
+        "char_count": 223,
+        "word_count": 42,
+        "created_at": "2026-03-12T10:30:45.123456",
+        "schema_version": "1.0",
+        "line_number": 45
+      }
+    }
+  ]
+}
+>>>>>>> b87913a (Initial commit)

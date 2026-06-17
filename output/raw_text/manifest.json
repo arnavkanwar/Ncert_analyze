@@ -1,0 +1,162 @@
+[
+  {
+    "file": "lech101.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech101.pdf",
+    "text_file": "output\\raw_text\\lech101.txt",
+    "file_name": "lech101.pdf"
+  },
+  {
+    "file": "lech102.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech102.pdf",
+    "text_file": "output\\raw_text\\lech102.txt",
+    "file_name": "lech102.pdf"
+  },
+  {
+    "file": "lech103.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech103.pdf",
+    "text_file": "output\\raw_text\\lech103.txt",
+    "file_name": "lech103.pdf"
+  },
+  {
+    "file": "lech104.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech104.pdf",
+    "text_file": "output\\raw_text\\lech104.txt",
+    "file_name": "lech104.pdf"
+  },
+  {
+    "file": "lech105.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech105.pdf",
+    "text_file": "output\\raw_text\\lech105.txt",
+    "file_name": "lech105.pdf"
+  },
+  {
+    "file": "lech1a1.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech1a1.pdf",
+    "text_file": "output\\raw_text\\lech1a1.txt",
+    "file_name": "lech1a1.pdf"
+  },
+  {
+    "file": "lech1an.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech1an.pdf",
+    "text_file": "output\\raw_text\\lech1an.txt",
+    "file_name": "lech1an.pdf"
+  },
+  {
+    "file": "lech1ps.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_1\\lech1ps.pdf",
+    "text_file": "output\\raw_text\\lech1ps.txt",
+    "file_name": "lech1ps.pdf"
+  },
+  {
+    "file": "lech201.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech201.pdf",
+    "text_file": "output\\raw_text\\lech201.txt",
+    "file_name": "lech201.pdf"
+  },
+  {
+    "file": "lech202.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech202.pdf",
+    "text_file": "output\\raw_text\\lech202.txt",
+    "file_name": "lech202.pdf"
+  },
+  {
+    "file": "lech203.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech203.pdf",
+    "text_file": "output\\raw_text\\lech203.txt",
+    "file_name": "lech203.pdf"
+  },
+  {
+    "file": "lech204.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech204.pdf",
+    "text_file": "output\\raw_text\\lech204.txt",
+    "file_name": "lech204.pdf"
+  },
+  {
+    "file": "lech205.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech205.pdf",
+    "text_file": "output\\raw_text\\lech205.txt",
+    "file_name": "lech205.pdf"
+  },
+  {
+    "file": "lech2an.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech2an.pdf",
+    "text_file": "output\\raw_text\\lech2an.txt",
+    "file_name": "lech2an.pdf"
+  },
+  {
+    "file": "lech2ps.pdf",
+    "type": "ncert",
+    "source": "ncert",
+    "pdf_file": "media\\chem_2\\lech2ps.pdf",
+    "text_file": "output\\raw_text\\lech2ps.txt",
+    "file_name": "lech2ps.pdf"
+  },
+  {
+    "file": "325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.pdf",
+    "type": "pyq",
+    "source": "pyq",
+    "pdf_file": "media\\pyq_chem\\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.pdf",
+    "text_file": "output\\raw_text\\pyqs\\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.txt",
+    "file_name": "325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.pdf"
+  },
+  {
+    "file": "73531863-aea1-4a79-8db4-b4c8c7df92ab.pdf",
+    "type": "pyq",
+    "source": "pyq",
+    "pdf_file": "media\\pyq_chem\\73531863-aea1-4a79-8db4-b4c8c7df92ab.pdf",
+    "text_file": "output\\raw_text\\pyqs\\73531863-aea1-4a79-8db4-b4c8c7df92ab.txt",
+    "file_name": "73531863-aea1-4a79-8db4-b4c8c7df92ab.pdf"
+  },
+  {
+    "file": "8251b8fc-1039-4cda-84df-e82aa431744d.pdf",
+    "type": "pyq",
+    "source": "pyq",
+    "pdf_file": "media\\pyq_chem\\8251b8fc-1039-4cda-84df-e82aa431744d.pdf",
+    "text_file": "output\\raw_text\\pyqs\\8251b8fc-1039-4cda-84df-e82aa431744d.txt",
+    "file_name": "8251b8fc-1039-4cda-84df-e82aa431744d.pdf"
+  },
+  {
+    "file": "92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.pdf",
+    "type": "pyq",
+    "source": "pyq",
+    "pdf_file": "media\\pyq_chem\\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.pdf",
+    "text_file": "output\\raw_text\\pyqs\\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.txt",
+    "file_name": "92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.pdf"
+  },
+  {
+    "file": "ec991df6-1608-405c-a523-3045ed4eba7b.pdf",
+    "type": "pyq",
+    "source": "pyq",
+    "pdf_file": "media\\pyq_chem\\ec991df6-1608-405c-a523-3045ed4eba7b.pdf",
+    "text_file": "output\\raw_text\\pyqs\\ec991df6-1608-405c-a523-3045ed4eba7b.txt",
+    "file_name": "ec991df6-1608-405c-a523-3045ed4eba7b.pdf"
+  }
+]

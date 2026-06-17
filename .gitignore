@@ -1,0 +1,7 @@
+venv/
+.venv/
+output/embeddings/
+chroma_db/
+*.sqlite3
+__pycache__/
+*.pyc

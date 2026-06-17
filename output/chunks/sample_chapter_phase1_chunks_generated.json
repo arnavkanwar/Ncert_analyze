@@ -1,0 +1,50 @@
+[
+  {
+    "board": "NCERT",
+    "class": "10",
+    "subject": "Science",
+    "book": "Book_1",
+    "chapter": "Chapter_01",
+    "heading": "Life Processes",
+    "paragraph_number": 1,
+    "chunk_id": "class10_science_ch1_p001",
+    "source_file": "data\\NCERT\\Class_10\\Science\\Book_1\\Chapter_01\\sample_chapter_phase1.md",
+    "text": "Nutrition is the process by which organisms obtain food. It is essential for growth, repair, and maintenance."
+  },
+  {
+    "board": "NCERT",
+    "class": "10",
+    "subject": "Science",
+    "book": "Book_1",
+    "chapter": "Chapter_01",
+    "heading": "Life Processes > Autotrophic Nutrition",
+    "paragraph_number": 2,
+    "chunk_id": "class10_science_ch1_p002",
+    "source_file": "data\\NCERT\\Class_10\\Science\\Book_1\\Chapter_01\\sample_chapter_phase1.md",
+    "text": "Green plants prepare their own food using sunlight, water, and carbon dioxide. This process is called photosynthesis."
+  },
+  {
+    "board": "NCERT",
+    "class": "10",
+    "subject": "Science",
+    "book": "Book_1",
+    "chapter": "Chapter_01",
+    "heading": "Life Processes > Autotrophic Nutrition > Role of Chlorophyll",
+    "paragraph_number": 3,
+    "chunk_id": "class10_science_ch1_p003",
+    "source_file": "data\\NCERT\\Class_10\\Science\\Book_1\\Chapter_01\\sample_chapter_phase1.md",
+    "text": "Chlorophyll helps absorb light energy for photosynthesis."
+  },
+  {
+    "board": "NCERT",
+    "class": "10",
+    "subject": "Science",
+    "book": "Book_1",
+    "chapter": "Chapter_01",
+    "heading": "Life Processes > Autotrophic Nutrition > Role of Chlorophyll",
+    "paragraph_number": 4,
+    "chunk_id": "class10_science_ch1_p004",
+    "source_file": "data\\NCERT\\Class_10\\Science\\Book_1\\Chapter_01\\sample_chapter_phase1.md",
+    "text": "The glucose formed is stored as starch in plants."
+  }
+]

@@ -1,0 +1,77 @@
+2026-04-02 03:35:38,474 - src.pipeline.pdf_text - INFO - Found 20 PDF files under media
+2026-04-02 03:35:38,997 - src.pipeline.pdf_text - INFO - Extracted lech101.pdf -> output\raw_text\lech101.txt
+2026-04-02 03:35:39,457 - src.pipeline.pdf_text - INFO - Extracted lech102.pdf -> output\raw_text\lech102.txt
+2026-04-02 03:35:39,727 - src.pipeline.pdf_text - INFO - Extracted lech103.pdf -> output\raw_text\lech103.txt
+2026-04-02 03:35:40,142 - src.pipeline.pdf_text - INFO - Extracted lech104.pdf -> output\raw_text\lech104.txt
+2026-04-02 03:35:40,452 - src.pipeline.pdf_text - INFO - Extracted lech105.pdf -> output\raw_text\lech105.txt
+2026-04-02 03:35:40,553 - src.pipeline.pdf_text - INFO - Extracted lech1a1.pdf -> output\raw_text\lech1a1.txt
+2026-04-02 03:35:40,612 - src.pipeline.pdf_text - INFO - Extracted lech1an.pdf -> output\raw_text\lech1an.txt
+2026-04-02 03:35:40,845 - src.pipeline.pdf_text - INFO - Extracted lech1ps.pdf -> output\raw_text\lech1ps.txt
+2026-04-02 03:35:41,201 - src.pipeline.pdf_text - INFO - Extracted lech201.pdf -> output\raw_text\lech201.txt
+2026-04-02 03:35:41,546 - src.pipeline.pdf_text - INFO - Extracted lech202.pdf -> output\raw_text\lech202.txt
+2026-04-02 03:35:41,922 - src.pipeline.pdf_text - INFO - Extracted lech203.pdf -> output\raw_text\lech203.txt
+2026-04-02 03:35:42,178 - src.pipeline.pdf_text - INFO - Extracted lech204.pdf -> output\raw_text\lech204.txt
+2026-04-02 03:35:42,454 - src.pipeline.pdf_text - INFO - Extracted lech205.pdf -> output\raw_text\lech205.txt
+2026-04-02 03:35:42,554 - src.pipeline.pdf_text - INFO - Extracted lech2an.pdf -> output\raw_text\lech2an.txt
+2026-04-02 03:35:42,677 - src.pipeline.pdf_text - INFO - Extracted lech2ps.pdf -> output\raw_text\lech2ps.txt
+2026-04-02 03:35:42,722 - src.pipeline.pdf_text - INFO - Extracted 325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.pdf -> output\raw_text\pyqs\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.txt
+2026-04-02 03:35:42,764 - src.pipeline.pdf_text - INFO - Extracted 73531863-aea1-4a79-8db4-b4c8c7df92ab.pdf -> output\raw_text\pyqs\73531863-aea1-4a79-8db4-b4c8c7df92ab.txt
+2026-04-02 03:35:42,804 - src.pipeline.pdf_text - INFO - Extracted 8251b8fc-1039-4cda-84df-e82aa431744d.pdf -> output\raw_text\pyqs\8251b8fc-1039-4cda-84df-e82aa431744d.txt
+2026-04-02 03:35:42,845 - src.pipeline.pdf_text - INFO - Extracted 92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.pdf -> output\raw_text\pyqs\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.txt
+2026-04-02 03:35:42,889 - src.pipeline.pdf_text - INFO - Extracted ec991df6-1608-405c-a523-3045ed4eba7b.pdf -> output\raw_text\pyqs\ec991df6-1608-405c-a523-3045ed4eba7b.txt
+2026-04-02 03:35:42,891 - src.pipeline.pdf_text - INFO - Saved extraction manifest with 20 records: output\raw_text\manifest.json
+2026-04-02 03:35:42,891 - root - INFO - Completed extraction for 20 PDFs
+2026-04-02 03:52:01,666 - src.pipeline.pdf_text - INFO - Found 20 PDF files under media
+2026-04-02 03:52:01,978 - src.pipeline.pdf_text - INFO - Extracted lech101.pdf -> output\raw_text\lech101.txt
+2026-04-02 03:52:02,220 - src.pipeline.pdf_text - INFO - Extracted lech102.pdf -> output\raw_text\lech102.txt
+2026-04-02 03:52:02,376 - src.pipeline.pdf_text - INFO - Extracted lech103.pdf -> output\raw_text\lech103.txt
+2026-04-02 03:52:02,626 - src.pipeline.pdf_text - INFO - Extracted lech104.pdf -> output\raw_text\lech104.txt
+2026-04-02 03:52:02,822 - src.pipeline.pdf_text - INFO - Extracted lech105.pdf -> output\raw_text\lech105.txt
+2026-04-02 03:52:02,882 - src.pipeline.pdf_text - INFO - Extracted lech1a1.pdf -> output\raw_text\lech1a1.txt
+2026-04-02 03:52:02,910 - src.pipeline.pdf_text - INFO - Extracted lech1an.pdf -> output\raw_text\lech1an.txt
+2026-04-02 03:52:03,015 - src.pipeline.pdf_text - INFO - Extracted lech1ps.pdf -> output\raw_text\lech1ps.txt
+2026-04-02 03:52:03,221 - src.pipeline.pdf_text - INFO - Extracted lech201.pdf -> output\raw_text\lech201.txt
+2026-04-02 03:52:03,418 - src.pipeline.pdf_text - INFO - Extracted lech202.pdf -> output\raw_text\lech202.txt
+2026-04-02 03:52:03,622 - src.pipeline.pdf_text - INFO - Extracted lech203.pdf -> output\raw_text\lech203.txt
+2026-04-02 03:52:03,761 - src.pipeline.pdf_text - INFO - Extracted lech204.pdf -> output\raw_text\lech204.txt
+2026-04-02 03:52:03,908 - src.pipeline.pdf_text - INFO - Extracted lech205.pdf -> output\raw_text\lech205.txt
+2026-04-02 03:52:03,973 - src.pipeline.pdf_text - INFO - Extracted lech2an.pdf -> output\raw_text\lech2an.txt
+2026-04-02 03:52:04,089 - src.pipeline.pdf_text - INFO - Extracted lech2ps.pdf -> output\raw_text\lech2ps.txt
+2026-04-02 03:52:04,119 - src.pipeline.pdf_text - INFO - Extracted 325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.pdf -> output\raw_text\pyqs\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.txt
+2026-04-02 03:52:04,148 - src.pipeline.pdf_text - INFO - Extracted 73531863-aea1-4a79-8db4-b4c8c7df92ab.pdf -> output\raw_text\pyqs\73531863-aea1-4a79-8db4-b4c8c7df92ab.txt
+2026-04-02 03:52:04,173 - src.pipeline.pdf_text - INFO - Extracted 8251b8fc-1039-4cda-84df-e82aa431744d.pdf -> output\raw_text\pyqs\8251b8fc-1039-4cda-84df-e82aa431744d.txt
+2026-04-02 03:52:04,201 - src.pipeline.pdf_text - INFO - Extracted 92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.pdf -> output\raw_text\pyqs\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.txt
+2026-04-02 03:52:04,230 - src.pipeline.pdf_text - INFO - Extracted ec991df6-1608-405c-a523-3045ed4eba7b.pdf -> output\raw_text\pyqs\ec991df6-1608-405c-a523-3045ed4eba7b.txt
+2026-04-02 03:52:04,231 - src.pipeline.pdf_text - INFO - Saved extraction manifest with 20 records: output\raw_text\manifest.json
+2026-04-02 03:52:04,231 - root - INFO - Completed extraction for 20 PDFs
+2026-04-02 04:12:20,285 - src.pipeline.pdf_text - INFO - Found 20 PDF files under media
+2026-04-02 04:12:20,621 - src.pipeline.pdf_text - INFO - Extracted lech101.pdf -> output\raw_text\lech101.txt
+2026-04-02 04:12:20,870 - src.pipeline.pdf_text - INFO - Extracted lech102.pdf -> output\raw_text\lech102.txt
+2026-04-02 04:12:21,038 - src.pipeline.pdf_text - INFO - Extracted lech103.pdf -> output\raw_text\lech103.txt
+2026-04-02 04:12:21,255 - src.pipeline.pdf_text - INFO - Extracted lech104.pdf -> output\raw_text\lech104.txt
+2026-04-02 04:12:21,425 - src.pipeline.pdf_text - INFO - Extracted lech105.pdf -> output\raw_text\lech105.txt
+2026-04-02 04:12:21,484 - src.pipeline.pdf_text - INFO - Extracted lech1a1.pdf -> output\raw_text\lech1a1.txt
+2026-04-02 04:12:21,511 - src.pipeline.pdf_text - INFO - Extracted lech1an.pdf -> output\raw_text\lech1an.txt
+2026-04-02 04:12:21,610 - src.pipeline.pdf_text - INFO - Extracted lech1ps.pdf -> output\raw_text\lech1ps.txt
+2026-04-02 04:12:21,811 - src.pipeline.pdf_text - INFO - Extracted lech201.pdf -> output\raw_text\lech201.txt
+2026-04-02 04:12:22,005 - src.pipeline.pdf_text - INFO - Extracted lech202.pdf -> output\raw_text\lech202.txt
+2026-04-02 04:12:22,209 - src.pipeline.pdf_text - INFO - Extracted lech203.pdf -> output\raw_text\lech203.txt
+2026-04-02 04:12:22,344 - src.pipeline.pdf_text - INFO - Extracted lech204.pdf -> output\raw_text\lech204.txt
+2026-04-02 04:12:22,490 - src.pipeline.pdf_text - INFO - Extracted lech205.pdf -> output\raw_text\lech205.txt
+2026-04-02 04:12:22,543 - src.pipeline.pdf_text - INFO - Extracted lech2an.pdf -> output\raw_text\lech2an.txt
+2026-04-02 04:12:22,643 - src.pipeline.pdf_text - INFO - Extracted lech2ps.pdf -> output\raw_text\lech2ps.txt
+2026-04-02 04:12:22,670 - src.pipeline.pdf_text - INFO - Extracted 325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.pdf -> output\raw_text\pyqs\325c7d7c-752a-49e7-b3c5-3851a8ec4fbe.txt
+2026-04-02 04:12:22,697 - src.pipeline.pdf_text - INFO - Extracted 73531863-aea1-4a79-8db4-b4c8c7df92ab.pdf -> output\raw_text\pyqs\73531863-aea1-4a79-8db4-b4c8c7df92ab.txt
+2026-04-02 04:12:22,726 - src.pipeline.pdf_text - INFO - Extracted 8251b8fc-1039-4cda-84df-e82aa431744d.pdf -> output\raw_text\pyqs\8251b8fc-1039-4cda-84df-e82aa431744d.txt
+2026-04-02 04:12:22,755 - src.pipeline.pdf_text - INFO - Extracted 92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.pdf -> output\raw_text\pyqs\92134eb7-a8a8-41b6-b1c2-af8cdae5f0b8.txt
+2026-04-02 04:12:22,781 - src.pipeline.pdf_text - INFO - Extracted ec991df6-1608-405c-a523-3045ed4eba7b.pdf -> output\raw_text\pyqs\ec991df6-1608-405c-a523-3045ed4eba7b.txt
+2026-04-02 04:12:22,782 - src.pipeline.pdf_text - INFO - Saved extraction manifest with 20 records: output\raw_text\manifest.json
+2026-04-02 04:12:22,783 - root - INFO - Completed extraction for 20 PDFs
+2026-04-19 22:34:41,382 - src.pipeline.pdf_text - INFO - Found 1 PDF files under C:\Ai_ML_sem4\media\pyqs
+2026-04-19 22:34:41,476 - src.pipeline.pdf_text - INFO - Extracted 1 The living world - Entrance questions (2).pdf -> C:\Ai_ML_sem4\output\raw_text_upload\pyqs\1_The_living_world_-_Entrance_questions__2_.txt
+2026-04-19 22:34:41,478 - src.pipeline.pdf_text - INFO - Saved extraction manifest with 1 records: C:\Ai_ML_sem4\output\raw_text_upload\manifest.json
+2026-04-19 22:34:41,478 - root - INFO - Completed extraction for 1 PDFs
+2026-04-19 22:40:11,896 - src.pipeline.pdf_text - INFO - Found 1 PDF files under C:\Ai_ML_sem4\media\pyqs
+2026-04-19 22:40:11,981 - src.pipeline.pdf_text - INFO - Extracted 1 The living world - Entrance questions (2).pdf -> C:\Ai_ML_sem4\output\raw_text_upload\pyqs\1_The_living_world_-_Entrance_questions__2_.txt
+2026-04-19 22:40:11,983 - src.pipeline.pdf_text - INFO - Saved extraction manifest with 1 records: C:\Ai_ML_sem4\output\raw_text_upload\manifest.json
+2026-04-19 22:40:11,983 - root - INFO - Completed extraction for 1 PDFs

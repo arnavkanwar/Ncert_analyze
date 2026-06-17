@@ -1,0 +1,23 @@
+2026-04-02 03:42:09,523 - root - INFO - Collection reset complete
+2026-04-02 03:42:14,580 - src.pipeline.chroma_db - INFO - Indexed 1916 records into collection 'ncert_chemistry'
+2026-04-02 03:42:14,611 - src.pipeline.chroma_db - INFO - Collection 'ncert_chemistry' total records now: 1916
+2026-04-02 03:42:14,647 - root - INFO - Indexed 1916 records
+2026-04-02 03:42:14,648 - root - INFO - Stored records in collection 'ncert_chemistry': 1916
+2026-04-02 03:56:48,528 - root - INFO - Collection reset complete
+2026-04-02 03:56:51,431 - src.pipeline.chroma_db - INFO - Indexed 1916 records into collection 'ncert_chemistry'
+2026-04-02 03:56:51,444 - src.pipeline.chroma_db - INFO - Collection 'ncert_chemistry' total records now: 1916
+2026-04-02 03:56:51,462 - root - INFO - Indexed 1916 records
+2026-04-02 03:56:51,462 - root - INFO - Stored records in collection 'ncert_chemistry': 1916
+2026-04-02 04:16:29,968 - root - INFO - Collection reset complete
+2026-04-02 04:16:32,378 - src.pipeline.chroma_db - INFO - Indexed 1388 records into collection 'ncert_chemistry'
+2026-04-02 04:16:32,386 - src.pipeline.chroma_db - INFO - Collection 'ncert_chemistry' total records now: 1388
+2026-04-02 04:16:32,400 - root - INFO - Indexed 1388 records
+2026-04-02 04:16:32,401 - root - INFO - Stored records in collection 'ncert_chemistry': 1388
+2026-04-19 22:35:32,741 - src.pipeline.chroma_db - INFO - Indexed 3 records into collection 'ncert_chemistry'
+2026-04-19 22:35:32,762 - src.pipeline.chroma_db - INFO - Collection 'ncert_chemistry' total records now: 1363
+2026-04-19 22:35:32,764 - root - INFO - Indexed 3 records
+2026-04-19 22:35:32,765 - root - INFO - Stored records in collection 'ncert_chemistry': 1363
+2026-04-19 22:40:46,415 - src.pipeline.chroma_db - INFO - Indexed 3 records into collection 'ncert_chemistry'
+2026-04-19 22:40:46,427 - src.pipeline.chroma_db - INFO - Collection 'ncert_chemistry' total records now: 1363
+2026-04-19 22:40:46,428 - root - INFO - Indexed 3 records
+2026-04-19 22:40:46,429 - root - INFO - Stored records in collection 'ncert_chemistry': 1363
